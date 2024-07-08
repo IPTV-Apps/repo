@@ -11,19 +11,19 @@
     },
     {
       "id": 2,
-      "title": "Contact @ianwoneill",
-      "message": "Contact @ianwoneill for pre-orders.",
+      "title": "Contact @BossApks",
+      "message": "Contact @BossApks for pre-orders.",
       "timestamp": "2023-07-11T09:15:00Z",
       "icon": "bi-telegram",
-      "url": "https://t.me/ianwoneill"
+      "url": "https://t.me/BossApks"
     },
     {
       "id": 3,
       "title": "Buy me a Coffee",
-      "message": "Buy me a drink: Cashapp £ianwoneill",
+      "message": "Buy me a drink: Cashapp $BossApk",
       "timestamp": "2023-07-10T18:45:00Z",
       "icon": "bi-cup-hot-fill",
-      "url": "https://cash.app/ianwoneill"
+      "url": "https://cash.app/BossApk"
     }
   ]
 }
