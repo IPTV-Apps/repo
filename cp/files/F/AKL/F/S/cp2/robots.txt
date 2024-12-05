@@ -1,0 +1,130 @@
+# Block all search engine crawlers
+User-agent: Googlebot
+Disallow: /
+
+User-agent: Bingbot
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /
+
+User-agent: DuckDuckBot
+Disallow: /
+
+User-agent: Slurp
+Disallow: /
+
+User-agent: Sogou
+Disallow: /
+
+User-agent: Exabot
+Disallow: /
+
+User-agent: facebot
+Disallow: /
+
+User-agent: Applebot
+Disallow: /
+
+User-agent: LinkedInBot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: Qwantify
+Disallow: /
+
+# Block major SEO crawlers
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: SEOkicks-Robot
+Disallow: /
+
+User-agent: MauiBot
+Disallow: /
+
+# Block social media crawlers
+User-agent: Twitterbot
+Disallow: /
+
+User-agent: Pinterest
+Disallow: /
+
+User-agent: WhatsApp
+Disallow: /
+
+User-agent: TelegramBot
+Disallow: /
+
+User-agent: Discordbot
+Disallow: /
+
+User-agent: Redditbot
+Disallow: /
+
+# Block other miscellaneous crawlers
+User-agent: UptimeRobot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: ZoominfoBot
+Disallow: /
+
+User-agent: MojeekBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: MegaIndex
+Disallow: /
+
+User-agent: Seekport
+Disallow: /
+
+User-agent: SistrixBot
+Disallow: /
+
+User-agent: SerpstatBot
+Disallow: /
+
+User-agent: Barkrowler
+Disallow: /
+
+User-agent: MauiBot
+Disallow: /
+
+User-agent: SiteAnalyzerBot
+Disallow: /
+
+User-agent: Pagespeed Insights
+Disallow: /
+
+User-agent: AdScannerBot
+Disallow: /
+
+User-agent: Veoozbot
+Disallow: /
+
+# Block Amazon Web Services crawler
+User-agent: aws-cloudsearch
+Disallow: /
